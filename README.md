@@ -10,7 +10,7 @@ git clone
 2- Passo de entre na pasta do projeto
 
 ```
-cd testeapicucumber
+cd AVALIACAO_VR_QA_API
 ```
 
 3- Passo instale as dependências
