@@ -1,0 +1,1 @@
+require 'httparty' #definindo as dependencias que a aplicação precisa importar para rodar as requisições 
