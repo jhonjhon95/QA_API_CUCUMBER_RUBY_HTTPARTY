@@ -10,7 +10,8 @@ git clone
 2- Passo de entre na pasta do projeto
 
 ```
-cd AVALIACAO_VR_QA_API
+cd QA_API_CUCUMBER_RUBY_HTTPARTY
+
 ```
 
 3- Passo instale as dependências
